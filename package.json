@@ -1,0 +1,26 @@
+{
+  "name": "country_by_phone",
+  "version": "0.1.0",
+  "description": "Get country and time zone information by phone number",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/axsmak/country_by_phone.git"
+  },
+  "keywords": [
+    "country",
+    "timezone",
+    "phone",
+    "number"
+  ],
+  "author": "axsmak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axsmak/country_by_phone/issues"
+  },
+  "homepage": "https://github.com/axsmak/country_by_phone#readme"
+}
