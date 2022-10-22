@@ -192,7 +192,7 @@ function standardizeCountry(x) {
   if (x.substring(0, 2) === '00') {
     x = x.replace('00', '+');
   }
-  return x;
+  return x[0] === '+' ? x : `+${x}`;
 }
 
 export default {
