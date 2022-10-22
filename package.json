@@ -1,7 +1,7 @@
 {
   "name": "country_by_phone",
   "version": "0.1.0",
-  "description": "Get country and time zone information by phone number",
+  "description": "Get country information by phone number",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "keywords": [
     "country",
-    "timezone",
+    "iso2",
     "phone",
     "number"
   ],
