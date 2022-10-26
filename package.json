@@ -1,6 +1,6 @@
 {
   "name": "country_by_phone",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get country information by phone number",
   "main": "index.js",
   "type": "module",
